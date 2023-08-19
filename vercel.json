@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://music.blackh1.top/:match*"
+      "destination": "https://music-api.blackh1.top/:match*"
     }
   ]
 }
